@@ -1,1 +1,1 @@
-"# Battlecode19" 
+# Battlecode19
